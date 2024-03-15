@@ -20,7 +20,7 @@
 - Electric Druid VCLFO (backlog)
 
 ### Envelope Generators
-- AS3310 VC ADSR (Documentation in progress)
+- [AS3310 VC ADSR](https://github.com/DIYSynthMNL/Eurorack-3310-ADSR) (Documentation in progress)
 
 ### Effects
 - [Multi Saturation](https://github.com/DIYSynthMNL/Eurorack-Multi-Saturation-Module) (Working on Rev 0.2)
