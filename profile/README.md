@@ -6,6 +6,10 @@ Check out my blog here: [diysynthmnl.github.io](https://diysynthmnl.github.io)
 - I try to be as thorough as possible in my design documentation, hopefully these would demistify how the modules work (and possibly give you the ideas to be able to create your own designs).
 
 ## Modules
+
+### Random Sequencer
+- [Pi Pico Random Looping Sequencer](https://github.com/DIYSynthMNL/Pi-Pico-Random-Looping-Sequencer)
+
 ### VCOs
 - [Electric Druid VCDO1 Chip Eurorack Module](https://github.com/DIYSynthMNL/Eurorack-Electric-Druid-VCDO1) (Documentation In Progress)
 - [3340 VCO](https://github.com/DIYSynthMNL/Eurorack-3340-VCO) (Prototype In Progress)
